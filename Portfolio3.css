@@ -1,0 +1,47 @@
+.Portfolio3{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Courier New', Courier, monospace;
+    background-color: orangered;
+    }
+    body{
+        background-color:orangered;
+    }
+    img{
+        height:18vw;
+        width:24vw;
+        float:center;
+        }
+    button{
+    color: #ffffff;
+    border-width: 10px;
+    border-color: #ffca4b;
+    border-radius: 75px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 0.7em;
+    padding-right: 1em;
+    background-color: #ffca4b;
+    float:center;
+}
+header{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Courier New', Courier, monospace;
+}
+footer{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Courier New', Courier, monospace;
+    }
